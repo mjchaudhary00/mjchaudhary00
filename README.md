@@ -43,5 +43,5 @@ I build practical ML systems with clear documentation, strong evaluation, and re
 ---
 
 ## 🔗 Connect with Me
-**LinkedIn:** https://linkedin.com/in/  
+**LinkedIn:** https://www.linkedin.com/in/chaudharymehul
 **GitHub:** https://github.com/mjchaudhary00  
